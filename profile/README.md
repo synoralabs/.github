@@ -5,7 +5,9 @@
 -->
 
 <div align="center">
-  <img src="https://github.com/synoralabs/.github/blob/main/Synora%20Logo.png" alt="SynoraAI Labs Logo" width="120">
+<div style="background-color: #fff; padding: 0px 0px 7px 0px; border-radius: 50%; width: 160px; height: 160px; display: flex; align-items: center; justify-content: center;">
+  <img src="https://github.com/synoralabs/.github/blob/main/Synora%20Logo.png" alt="SynoraAI Labs Logo" width="150">
+</div>
   <h1>SynoraAI Labs</h1>
   <p><b>Architecting Intelligent Software & Hardware Ecosystems</b></p>
   
