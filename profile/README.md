@@ -16,7 +16,7 @@
 
 ---
 
-We are a technology engineering firm based in **Ballarpur, Maharashtra**, specializing in full-stack software development, Industrial IoT (IIoT), and AI-driven applications. We partner with businesses to transform complex operational challenges into scalable, secure, and user-centric digital solutions. 
+We are a technology-driven engineering firm based in **Ballarpur, Maharashtra**, specializing in full-stack software development, Industrial IoT (IIoT), and AI-driven applications. We partner with businesses to transform complex operational challenges into scalable, secure, and user-centric digital solutions. 
 
 ## 🌐 Enterprise & Client Solutions
 
