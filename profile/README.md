@@ -93,7 +93,7 @@ Currently, our engineering efforts are heavily focused on closed-source, proprie
 We are currently taking on new client projects and technical partnerships. Whether you need a sophisticated mobile app, a complex IoT integration, or a complete system architecture from the ground up, let's talk.
 
 * **📍 HQ:** Ballarpur, Maharashtra, India
-* **✉️ Direct Inquiry:** [synoralabs@gmail.com](mailto:synoralabs@gmail.com)
+* **✉️ Direct Inquiry:** [contact@synoralabs.in](mailto:contact@synoralabs.in)
 
 ---
 <div align="center">
